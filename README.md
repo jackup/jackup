@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackup
-- 👀 I’m interested in ... Java, Spring-Boot,C#, Visual Studio, ASP.Net, Python
+- 👀 I’m interested in ... Java, Spring-Boot, C#, Visual Studio, ASP.Net, Python
 - 🌱 I’m currently learning ... C#, Visual Studio
 - <!---💞️ I’m looking to collaborate on ... 
 - //📫 How to reach me ... --->
